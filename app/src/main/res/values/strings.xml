@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tipo Sanguíneo</string>
+    <string name="order_user">Informe o Tipo</string>
+    <string name="action_button">Mostrar</string>
+</resources>
