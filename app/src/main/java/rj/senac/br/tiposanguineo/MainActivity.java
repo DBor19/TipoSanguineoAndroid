@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void ActionButton(View v) {
         EditText etN = findViewById(R.id.editTextText);
-        TextView textViewResult = findViewById(R.id.textViewResult);
+        TextView textViewResult = (TextView)findViewById(R.id.textViewResult);
 
         String s = etN.getText().toString().toUpperCase();
 
